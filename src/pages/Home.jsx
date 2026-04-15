@@ -54,8 +54,8 @@ export default function Home() {
             <button
               onClick={() => {
                 const link = document.createElement("a");
-                link.href = "/Mangala_Eshwaran_MERN_STACK_DEV_Resume.pdf";
-                link.download = "Mangala_Eshwaran_MERN_STACK_DEV_Resume.pdf";
+                link.href = "/Madhesh-Protfolio/Mangala_Eshwaran_MERN_STACK_DEV_Resume.pdf";
+                link.download = "/Madhesh-Protfolio/Mangala_Eshwaran_MERN_STACK_DEV_Resume.pdf";
                 link.click();
               }}
               className="flex items-center justify-center gap-2 bg-yellow-400 text-black hover:bg-yellow-500 px-5 py-2.5 rounded-md font-semibold transition-all duration-200"
