@@ -21,10 +21,10 @@ export default function Footer() {
 
         {/* NAVIGATION */}
         <div className="flex flex-wrap justify-center gap-6 text-gray-300 font-medium">
-          <a href="/Madhesh-Protfolio/" className="hover:text-yellow-400 transition">Home</a>
-          <a href="/Madhesh-Protfolio/about" className="hover:text-yellow-400 transition">About</a>
-          <a href="/Madhesh-Protfolio/projects" className="hover:text-yellow-400 transition">Projects</a>
-          <a href="/Madhesh-Protfolio/contact" className="hover:text-yellow-400 transition">Contact</a>
+          <a href="/Madhesh-Protfolio/#/" className="hover:text-yellow-400 transition">Home</a>
+          <a href="/Madhesh-Protfolio/#/about" className="hover:text-yellow-400 transition">About</a>
+          <a href="/Madhesh-Protfolio/#/projects" className="hover:text-yellow-400 transition">Projects</a>
+          <a href="/Madhesh-Protfolio/#/contact" className="hover:text-yellow-400 transition">Contact</a>
         </div>
 
         {/* SOCIAL ICONS */}
